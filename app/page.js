@@ -187,7 +187,7 @@ export default function Home() {
                 {quantity}
               </Typography>
               <Stack direction="row" spacing={2} flex={1} justifyContent="center">
-                <Button variant="contained" onClick={() => addItem(name)} sx={{backgroundColor: '#008080'}}>
+                <Button variant="contained" onClick={() => addItem(name, 1)} sx={{backgroundColor: '#008080'}}>
                   Add
                 </Button>
                 <Button variant="contained" onClick={() => removeItem(name)} sx={{backgroundColor: '#FF6347'}}>
