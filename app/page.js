@@ -146,7 +146,7 @@ export default function Home() {
           </Stack>
         </Box>
       </Modal>
-      <Typography variant="h3" sx= {{ fontFamily: 'Roboto, sans-serif', fontWeight: '400', fontSize: '2rem', color: '#008080'}}>What's in my Pantry?</Typography>
+      <Typography variant="h3" sx= {{ fontFamily: 'Roboto, sans-serif', fontWeight: '400', fontSize: '2rem', color: '#008080'}}>What&apos;s in my Pantry?</Typography>
       <Box border="1px solid #008080">
         <Box
           width="800px"
