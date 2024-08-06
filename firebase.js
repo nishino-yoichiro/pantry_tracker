@@ -18,7 +18,7 @@ const MEASUREMENTID = process.env.REACT_APP_FIREBASE_MEASUREMENT_ID;
 const firebaseConfig = {
   apiKey: APIKEY,
   authDomain: AUTHDOMAIN,
-  projectId: PROJECTID,
+  projectId: "inventory-management-97279",
   storageBucket: STORAGEBUCKET,
   messagingSenderId: MESSAGINGSENDERID,
   appId: APPID,
